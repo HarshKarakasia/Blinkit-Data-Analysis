@@ -20,17 +20,6 @@ This repository contains:
 
 ---
 
-## Key Insights *(Replace these with your actual dashboard findings)*  
-- **Total Revenue:** ₹X  
-- **Total Orders:** X  
-- **Average Rating:** X.X  
-- **Top-Selling Category:** _e.g., Dairy & Bakery_  
-- **Best Performing City:** _e.g., Bangalore_  
-- **Peak Ordering Time:** _e.g., 6 PM – 10 PM_  
-- **Returning Customer Percentage:** X%  
-
----
-
 ## Tools & Technologies
 - **Power BI Desktop**  
 - Power Query  
@@ -97,12 +86,6 @@ This repository contains:
 3. Refresh the dataset if required  
 4. Explore insights using interactive visuals  
 
----
-
-## Author
-**Harsh Karakasia**  
-B.Tech AIML | Data Analyst | Power BI Developer  
-LinkedIn: *your-profile-link-here*
 
 ---
 
