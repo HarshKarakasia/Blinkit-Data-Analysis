@@ -47,10 +47,9 @@ This repository contains:
 ---
 
 ## Dashboard Preview
-(Add screenshot once available)
 
 ```
-![Dashboard Preview](/Blinkit ss.png)
+![Dashboard Preview](https://github.com/HarshKarakasia/Blinkit-Data-Analysis.git/main/Blinkit ss.png)
 ```
 
 ---
