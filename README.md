@@ -50,7 +50,7 @@ This repository contains:
 (Add screenshot once available)
 
 ```
-![Dashboard Preview](D:\INTERNSHIP STUFF\SUN PHARMA\Blinkit Project\Blinkit ss.png)
+![Dashboard Preview](/Blinkit ss.png)
 ```
 
 ---
