@@ -49,7 +49,7 @@ This repository contains:
 ## Dashboard Preview
 
 ```
-![Dashboard Preview](https://github.com/HarshKarakasia/Blinkit-Data-Analysis.git/main/Blinkit ss.png)
+![Dashboard Preview](https://github.com/HarshKarakasia/Blinkit-Data-Analysis/blob/main/Blinkit%20ss.png)
 ```
 
 ---
