@@ -46,12 +46,6 @@ This repository contains:
 
 ---
 
-## Dashboard Preview
-
-```
-![Dashboard Preview](https://github.com/HarshKarakasia/Blinkit-Data-Analysis/blob/main/Blinkit%20ss.png)
-```
-
 ---
 
 ## Analysis Performed
